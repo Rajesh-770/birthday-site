@@ -8,7 +8,7 @@ import { MusicPlayer } from "@/components/MusicPlayer";
 import { Wishes } from "@/components/Wishes";
 import { Rain } from "@/components/Rain";
 
-const RECIPIENT = "D";
+const RECIPIENT = "DhanuSri";
 
 const Index = () => {
   // Tiny demo countdown so the cake unlocks ~5s after load.
